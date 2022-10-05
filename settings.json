@@ -1,5 +1,5 @@
 {
-    "omnisharp.monoPath": "/Library/Frameworks/Mono.framework/Versions/6.12.0",
+    "omnisharp.monoPath": "/tmp/Mono/Mono.framework/Versions/6.12.0",
     "csharp.suppressDotnetInstallWarning": true,
     "omnisharp.useModernNet": false
 }
